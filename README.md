@@ -1,4 +1,3 @@
-markdown
 # Sea Battle Modes
 
 Режимы игры для проекта "Морской бой"
@@ -24,3 +23,5 @@ game=SinglePlayerGame(difficulty="medium")
 
 # Игра с другом
 game=TwoPlayerGame()
+
+Автор: Кирилл Денисов
