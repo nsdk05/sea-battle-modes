@@ -12,7 +12,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ваш-логин/sea-battle-modes.git
+git clone https://github.com/nsdk05/sea-battle-modes.git
 
 Использование
 python
