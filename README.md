@@ -20,4 +20,5 @@ game=SinglePlayerGame(difficulty="medium")
 game=TwoPlayerGame()
 
 Автор: Кирилл Денисов
+
 Главный репозиторий https://github.com/southpepperbaby/Sea-Battle-Game
