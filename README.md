@@ -9,11 +9,6 @@
 - Искусственный интеллект (BotPlayer)
 - Режим игры с компьютером (SinglePlayerGame)
 
-## Установка
-
-```bash
-git clone https://github.com/nsdk05/sea-battle-modes.git
-
 Использование
 python
 from game_modes import SinglePlayerGame,TwoPlayerGame
@@ -25,3 +20,4 @@ game=SinglePlayerGame(difficulty="medium")
 game=TwoPlayerGame()
 
 Автор: Кирилл Денисов
+Главный репозиторий https://github.com/southpepperbaby/Sea-Battle-Game
